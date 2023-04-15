@@ -1,5 +1,5 @@
-Get the path of the file
 ```powershell
+Get the path of the file
 $file_path = "C:\Users\abina\OneDrive\Desktop\roughnote.txt"
 
 Read the content of the file
