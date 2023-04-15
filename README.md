@@ -1,4 +1,5 @@
-###powershell script where we can check each line and split words with a seperator as *  in a paragraph of 5 lines and gives output only those words which are after * of that line
+### powershell script where we can check each line and split words with a seperator as *  in a paragraph of 5 lines and gives output only those words which are after * of that line
+
 ## Using regular Expression
 ```powershell
 Get the path of the file
